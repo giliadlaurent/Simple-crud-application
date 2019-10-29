@@ -1,15 +1,15 @@
 # Simple-crud-application
 ## About
 
-Simple Cruid application ni application inayokuwezesha ku create,edit,delete.
-jinsi ya ku install
+Simple Cruid application has the following functionality create,edit,delete.
+how to install
 
     Run git clone https://github.com/simple-crud-application/laravel.git simple-crud-application
-    Run composer install (install composer kabla hujaendelea)
-    kwenye root ya project run cp .env.example .env
-    Harafu Configure .env file
-    Ukiwa kwenye root ya project run php artisan migrate
-    Harafu run php artisan serve ku anzisha serve na ufungue browser (127.0.0.1:8080)
+    Run composer install (install composer )
+    from the root of your project run cp .env.example .env
+    then Configure .env file
+    from the root of your project run php artisan migrate
+    then, run php artisan serve open your browser (127.0.0.1:8080)
 
 ## Contacts
 
